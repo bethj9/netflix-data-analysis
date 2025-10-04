@@ -8,10 +8,9 @@ A simple exploratory analysis of Netflix titles using pandas and matplotlib.
 - Shows the Top 5 most common release years
 - Visualizes content type distribution with a pie chart
 
-## How to run
+## Dependencies
 ```bash
-pip install pandas matplotlib
-python netflix_analysis.py
+pip install pandas matplotlib seaborn
 ```
 ## Sample Visual
 <img width="734" height="496" alt="Image" src="https://github.com/user-attachments/assets/ec53931b-4202-4695-86dd-6b9fa10fa488" />
