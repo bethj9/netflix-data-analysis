@@ -12,3 +12,4 @@ A simple exploratory analysis of Netflix titles using pandas and matplotlib.
 ```bash
 pip install pandas matplotlib
 python netflix_analysis.py
+
